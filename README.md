@@ -5,10 +5,10 @@
 #### Chapter 1: Welcome to Our Course
 #### Chapter 2: Before Jump into Coding
 #### Chapter 3: Start Your Coding Journey
-1. Basic Calculator (L-10: Simple Calculator Project in C) ***[1. basic_calculator.c]***
+1. Basic Calculator (L-10: Simple Calculator Project in C) ***[1. basic_calculator.c](./1. basic_calculator.c)***
 #### Chapter 4: Data Types and it's Usage
-2. Decimal to Octal, Hexadecimal Converter (L-14: Integer Types Data in C) ***[2. number_system_conversion.c]***
-3. Print Your Name (L-17: String Works in C) ***[3. print_name.c]***
+2. Decimal to Octal, Hexadecimal Converter (L-14: Integer Types Data in C) ***[2. number_system_conversion.c](./2. number_system_conversion.c)***
+3. Print Your Name (L-17: String Works in C) ***[3. print_name.c](./3. print_name.c)***
 #### Chapter 5: Operator and Operands in C
 > Note: Bitwise Operator - ***[bitwise_operator.md](./bitwise_operator.md)***
 #### Chapter 6: Decision Making in Programming
