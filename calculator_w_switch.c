@@ -1,11 +1,10 @@
 #include <stdio.h>
-#include <stdbool.h>
 
 int main() {
   char operator;
   float a, b;
 
-  while (true){
+  while (1) {
     printf("num1 (+|-|*|/) num2?: ");
     scanf("%f %c %f", &a, &operator, &b);
 

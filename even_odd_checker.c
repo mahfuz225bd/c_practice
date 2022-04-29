@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <stdbool.h>
 
 int main() {
   int num;
 
-  while(true){
+  while (1) {
     printf("Enter a number: ");
     scanf("%d", &num);
 
