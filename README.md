@@ -10,7 +10,7 @@
 2. Decimal to Octal, Hexadecimal Converter (L-14: Integer Types Data in C) ***[2. number_system_conversion.c]***
 3. Print Your Name (L-17: String Works in C) ***[3. print_name.c]***
 #### Chapter 5: Operator and Operands in C
-> Note: Bitwise Operator - ***[bitwise_operator.md]***
+> Note: Bitwise Operator - ***[bitwise_operator.md](./bitwise_operator.md)***
 #### Chapter 6: Decision Making in Programming
 4. Calculator using Switch Statement (Task) (L-34: Switch Statement in C) ***[4. calculator_w_switch.c]***
 5. Checking Person (L-35: Nested Condition) ***[5. check_person.c]***
