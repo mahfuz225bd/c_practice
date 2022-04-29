@@ -1,5 +1,5 @@
 # C All You Need to Know (Stack Learner) Practices
-[Click here](https://www.youtube.com/watch?v=982nK2Vdk_o&list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy&index=1){:target="\_blank"} for getting YouTube playlist of this tutorial.
+[Click here](https://www.youtube.com/watch?v=982nK2Vdk_o&list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy&index=1){:target="_blank"} for getting YouTube playlist of this tutorial.
 
 ## Problems
 #### Chapter 1: Welcome to Our Course
