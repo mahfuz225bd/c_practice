@@ -1,5 +1,5 @@
 # Bitwise Operator Note
-0 = False/Low/Off 
+0 = False/Low/Off \
 1 = True/High/On
 
 ### AND (&) ও Operator ([4:00](https://www.youtube.com/watch?v=K55NS1BlD7E&t=240s))
