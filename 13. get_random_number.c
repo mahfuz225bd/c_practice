@@ -7,7 +7,7 @@ int main()
     int get_random_number;
     time_t t;
 
-    srand((unsigned)time(&t));
+    srand((unsigned) time(&t));
 
     get_random_number = rand() % 100 + 1;
 

@@ -21,7 +21,8 @@
 10. Swap Case of Uppercase/Lowercase (L-37: Uppercase to Lowercase) ***[10. uppercase_lowercase_swapcase.c](./10.%20uppercase_lowercase_swapcase.c)***
 11. Leap Year Checker (L-38: Find Leap Year in C) ***[11. leap_year_checker.c](./11.%20leap_year_checker.c)***
 12. Leap Year Checker 2 (L-38: Find Leap Year in C) ***[12. leap_year_checker2.c](./12.%20leap_year_checker2.c)***
-13. Get Random Number (L-39: Pick A Lucky Number) ***[12. get_random_number.c](./12.%20get_random_number.c)***
+13. Get Random Number (L-39: Pick A Lucky Number) ***[13. get_random_number.c](./13.%20get_random_number.c)***
+14. Guess Game (L-39: Pick A Lucky Number) ***[14. guess_game.c](./14.%20guess_game.c)***
 #### Chapter 7: Loop and Repetition
 #### Chapter 8: Array in Programming
 #### Chapter 9: Working with Strings in C
