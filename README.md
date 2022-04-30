@@ -24,6 +24,9 @@
 13. Get Random Number (L-39: Pick A Lucky Number) ***[13. get_random_number.c](./13.%20get_random_number.c)***
 14. Guess Game (L-39: Pick A Lucky Number) ***[14. guess_game.c](./14.%20guess_game.c)***
 #### Chapter 7: Loop and Repetition
+15. Print even and odd numbers from 1 to 100 using for loop (L-41: For Loop in C) ***[15. for_even_odd_numbers.c](./15.%20for_even_odd_numbers.c)***
+16. Print even numbers from 1 to 100 using for loop (L-41: For Loop in C) ***[15. for_even_numbers.c](./15.%20for_even_numbers.c)***
+17. Print odd numbers from 1 to 100 using for loop (L-41: For Loop in C) ***[15. for_odd_numbers.c](./15.%20for_odd_numbers.c)***
 #### Chapter 8: Array in Programming
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
