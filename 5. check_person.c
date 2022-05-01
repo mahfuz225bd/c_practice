@@ -5,9 +5,14 @@ int main() {
   int age;
   char has_nid, has_passport;
 
-  age = 19;
-  has_nid = 'y';
-  has_passport = 'y';
+  printf("Enter your age: ");
+  scanf("%d", &age);
+  
+  printf("Have NID? (y or n): ");
+  scanf(" %c", &has_nid); // " %c" for second input
+  
+  printf("Have Passport? (y or n): ");
+  scanf(" %c", &has_passport); // " %c" for third input
 
   printf("\n");
 
