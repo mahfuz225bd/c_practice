@@ -33,8 +33,9 @@
 21. Guess Game Limited (L-47: Guessing Game Limited Chance using While Loop) ***[guess_game_limited.c](./guess_game_limited.c)***
 22. Guess Game Limited using Do While (L-49: Use of While Loop) ***[guess_game_do_while.c](./guess_game_do_while.c)***
 23. Lowercase to Uppercase Converter (L-50: Lowercase to Uppercase using Loop) ***[lowercase_uppercase_converter.c](./lowercase_uppercase_converter.c)***
-24. Star Half Pyramid (L-51: Draw Star Pyramid with Loop) ***[star_half_pyramid.c](./star_half_pyramid.c)***
-25. Star Pyramid (L-51: Draw Star Pyramid with Loop) ***[star_pyramid.c](./star_pyramid.c)***
+24. Draw a Star Half Pyramid (L-51: Draw Star Pyramid with Loop) ***[star_half_pyramid.c](./star_half_pyramid.c)***
+25. Draw a Star Pyramid (L-51: Draw Star Pyramid with Loop) ***[star_pyramid.c](./star_pyramid.c)***
+26. Draw a Star Diamond (L-52: Draw Star Diamond using Loop) ***[star_diamond.c](./star_diamond.c)***
 #### Chapter 8: Array in Programming
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers

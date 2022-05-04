@@ -16,7 +16,7 @@ int main(){
       printf(" ");
     }
 
-    // Print "*" for 0 to 2*i-1
+    // Print "*" for 0 to (2*i)-1
     for (j = 0; j < (2*i) - 1; j++) {
       printf("*");
     }
