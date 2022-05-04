@@ -31,6 +31,7 @@
 19. Print Sum of Two Numbers for Multiple Times Using While Loop (L-45: Use of While Loop) ***[19. while_sum_twice.c](./19.%20while_sum_twice.c)***
 20. Guess Game Unlimited (L-46: Guessing Game using While Loop) ***[20. guess_game_unlimited.c](./20.%20guess_game_unlimited.c)***
 21. Guess Game Limited (L-47: Guessing Game Limited Chance using While Loop) ***[21. guess_game_limited.c](./21.%20guess_game_limited.c)***
+22. Guess Game Limited using Do While (L-49: Use of While Loop) ***[22. guess_game_do_while.c](./22.%20guess_game_do_while.c)***
 #### Chapter 8: Array in Programming
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
