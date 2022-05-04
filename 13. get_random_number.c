@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int main()
-{
+int main() {
     int get_random_number;
     time_t t;
 
