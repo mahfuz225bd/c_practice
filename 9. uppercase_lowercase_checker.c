@@ -1,11 +1,14 @@
 #include <stdio.h>
 
 int main() {
+  // Define
   char chr;
   
+  // Input chr
   printf("Input Character: ");
   scanf("%c", &chr);
 
+  // Print chr is number or uppercase or lowercase or special character
   if (chr >= 48 && chr <= 57) {
     printf("%c is a Number.\n", chr);
   } else if (chr >= 65 && chr <= 90) {

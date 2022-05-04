@@ -1,16 +1,21 @@
 #include <stdio.h>
 
 int main(){
-    // init name, i
+    // Define my_str[30], i
     char my_str[30];
-    int i = 0;
+    int i;
 
-    // Set name
+    // Declare i
+    i = 0;
+
+    // Input my_str
     printf("Enter a string: ");
     fgets(my_str, 30, stdin);
 
-    // Convert to uppercase character by character
+    // Convert to uppercase character by character (using loop)
+    // Repeat while my_str[i] is available
     while(my_str[i]) {
+        // If my_str[i] is between 'a' to 'z' then convert to uppercase
         if (my_str[i] >= 'a' && my_str[i] <= 'z') {
             my_str[i] = my_str[i] - 32;
         }
