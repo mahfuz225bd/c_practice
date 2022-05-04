@@ -29,6 +29,7 @@
 17. Print Odd Numbers From 1 to 100 Using For Loop (L-41: For Loop in C) ***[17. for_odd_numbers.c](./17.%20for_odd_numbers.c)***
 18. Draw a Box Using For Loop (L-42: Draw A Box Using For Loop) ***[18. draw_box.c](./18.%20draw_box.c)***
 19. Print Sum of Two Numbers for Multiple Times Using While Loop (L-45: Use of While Loop) ***[19. while_sum_twice.c](./19.%20while_sum_twice.c)***
+20. Guess Game Unlimited (L-46: Guessing Game using While Loop) ***[20. guess_game_unlimited.c](./20.%20guess_game_unlimited.c)***
 #### Chapter 8: Array in Programming
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
