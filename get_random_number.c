@@ -14,7 +14,7 @@ int main() {
     get_random_number = rand() % 100 + 1;
 
     // Print get_random_number
-    printf("Random Number: %d", get_random_number);
+    printf("Random Number: %d\n", get_random_number);
 
     return 0;
 }

@@ -37,6 +37,9 @@
 25. Draw a Star Pyramid (L-51: Draw Star Pyramid with Loop) ***[star_pyramid.c](./star_pyramid.c)***
 26. Draw a Star Diamond (L-52: Draw Star Diamond using Loop) ***[star_diamond.c](./star_diamond.c)***
 #### Chapter 8: Array in Programming
+27. Sum of an Array (L-57: Array Sum Average and Max Number) ***[array_sum.c](./array_sum.c)***
+28. Average of an Array (L-57: Array Sum Average and Max Number) ***[array_average.c](./array_average.c)***
+28. Max Number of an Array (L-57: Array Sum Average and Max Number) ***[array_max.c](./array_max.c)***
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
 #### Chapter 11: Deal with Functions in C
