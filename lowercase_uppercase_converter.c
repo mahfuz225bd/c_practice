@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     // Define my_str[30], i
     char my_str[30];
     int i;

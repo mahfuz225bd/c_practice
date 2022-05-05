@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
   // Define i, j, rows
   int i, j, rows;
 
