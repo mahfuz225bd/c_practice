@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf();
-
-    return 0;
+  printf();
+  
+  return 0;
 }
