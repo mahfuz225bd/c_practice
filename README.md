@@ -43,6 +43,7 @@
 30. Memory Address of an Array with Its Elements (L-58: How does Array Store Elements in Memory) ***[array_memory_address.c](./array_memory_address.c)***
 31. Length of an Array (L-59: Sizeof Operator used in Array) ***[array_sizeof.c](./array_sizeof.c)***
 32. Input Numbers Into an Array (L-60: Input Array Elements) ***[array_input_numbers.c](./array_input_numbers.c)***
+32. Input Numbers Into an Array and Get Sum, Avg, Max (L-60: Input Array Elements) ***[array_input_sum_avg_max.c](./array_input_sum_avg_max.c)***
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
 #### Chapter 11: Deal with Functions in C
