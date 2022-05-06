@@ -13,7 +13,7 @@ int main() {
     sum = 0;
 
     // Set len
-    len = sizeof(scores) / sizeof(int);
+    len = 5;
 
     // Do sum
     for (i = 0; i < len; i++) {
@@ -28,7 +28,3 @@ int main() {
 
     return 0;
 }
-
-/* Resources:
-- How to Find Length of Array in C - https://www.knowprogram.com/c-programming/find-length-of-array-in-c/
-*/

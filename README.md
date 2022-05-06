@@ -39,7 +39,9 @@
 #### Chapter 8: Array in Programming
 27. Sum of an Array (L-57: Array Sum Average and Max Number) ***[array_sum.c](./array_sum.c)***
 28. Average of an Array (L-57: Array Sum Average and Max Number) ***[array_average.c](./array_average.c)***
-28. Max Number of an Array (L-57: Array Sum Average and Max Number) ***[array_max.c](./array_max.c)***
+29. Max Number of an Array (L-57: Array Sum Average and Max Number) ***[array_max.c](./array_max.c)***
+30. Memory Address of an Array with Its Elements (L-58: How does Array Store Elements in Memory) ***[array_memory_address.c](./array_memory_address.c)***
+31. Length of an Array (L-59: Sizeof Operator used in Array) ***[array_sizeof.c](./array_sizeof.c)***
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
 #### Chapter 11: Deal with Functions in C
