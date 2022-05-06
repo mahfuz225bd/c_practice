@@ -44,7 +44,8 @@
 31. Length of an Array (L-59: Sizeof Operator used in Array) ***[array_sizeof.c](./array_sizeof.c)***
 32. Input Numbers Into an Array (L-60: Input Array Elements) ***[array_input_numbers.c](./array_input_numbers.c)***
 33. Input Numbers Into an Array and Get Sum, Avg, Max (L-60: Input Array Elements) ***[array_input_sum_avg_max.c](./array_input_sum_avg_max.c)***
-34. Input Numbers Into an Array and Get Sum, Avg, Max by User Input Length (L-60: Variable Length Array) ***[array_input_sum_avg_max2.c](./array_input_sum_avg_max2.c)***
+34. Input Numbers Into an Array and Get Sum, Avg, Max by User Input Length (L-61: Variable Length Array) ***[array_input_sum_avg_max2.c](./array_input_sum_avg_max2.c)***
+35. Search an Item Into an Array (L-62: Search Array Elements) ***[array_search.c](./array_search.c)***
 #### Chapter 9: Working with Strings in C
 #### Chapter 10: Working with Pointers
 #### Chapter 11: Deal with Functions in C
